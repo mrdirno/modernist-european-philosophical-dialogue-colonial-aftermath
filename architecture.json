@@ -1,0 +1,77 @@
+{
+  "book_id": "modernist-european-philosophical-dialogue-colonial-aftermath",
+  "title": "The Patient Digestion of All Things",
+  "tagline": "An architect inherits a philosopher's wrecked legacy, forcing a confrontation with the colonial ballast buried beneath Europe's modern foundations.",
+  "target_words": 74937,
+  "actual_words": 74937,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Haunting of History",
+    "The Architecture of Guilt",
+    "Philosophical Inheritance",
+    "The Geography of Memory"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Fine, Administrative Mist",
+      "words": 6244
+    },
+    {
+      "ch": 2,
+      "title": "The Table, The Box, The Circle",
+      "words": 6244
+    },
+    {
+      "ch": 3,
+      "title": "Words Stolen by the Wind",
+      "words": 6244
+    },
+    {
+      "ch": 4,
+      "title": "A Key That Did Not Fit",
+      "words": 6244
+    },
+    {
+      "ch": 5,
+      "title": "The Vertebrae of a Buried Beast",
+      "words": 6244
+    },
+    {
+      "ch": 6,
+      "title": "The Patient Digestion of All Things",
+      "words": 6244
+    },
+    {
+      "ch": 7,
+      "title": "A Debt Logged in Blood",
+      "words": 6244
+    },
+    {
+      "ch": 8,
+      "title": "The Warm, Wet Mouth of Green",
+      "words": 6244
+    },
+    {
+      "ch": 9,
+      "title": "The Summons of Omission",
+      "words": 6244
+    },
+    {
+      "ch": 10,
+      "title": "The Dowager’s Tears",
+      "words": 6244
+    },
+    {
+      "ch": 11,
+      "title": "A Liquidity Event for the Gutters",
+      "words": 6244
+    },
+    {
+      "ch": 12,
+      "title": "The Weight of a Damp Memorandum",
+      "words": 6244
+    }
+  ]
+}
